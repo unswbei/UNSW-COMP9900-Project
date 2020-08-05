@@ -1,0 +1,120 @@
+Week 1
+
+1. Group formed and joined in the Jira project management system.
+2. Joined in online collaboration documentation work.
+3. Took part in the online group discussion about our project.
+4. Together with my teammates, we had the first online meeting on Friday and went through the main functions of the project based on our own understanding.
+
+Next week plan: 
+1.we planned to start the proposal from user stories which had been discussed during the meeting.
+
+
+Week 2
+
+1. collaborated with teammates to complete the user story.
+2. added in the backgroud, obejectives, user story analysis part for the proposal.
+3. Join in the group discussion for the project requirements.
+4. Took part in the online zoom group meeting to go through the whole prosoal document.
+5. I wrote down the first version of the tables design for our database system for further refining.
+
+next week plan: 
+1. Further modify to perfect the related user story and user story analysis part;
+2. Formating the draft version of proposal and prepare the final version to submit!
+
+Week 3
+
+1. Further modify to pecfect the comparing with current existing system part of backgroud, user story and user story analysis part;
+2. Reorgaine the explaination part for the interface and flow diagram part;
+3. formatted the first version of the proposal and collaborate with teammates to refine the format and content of the proposal;
+4. Working with teammates to generate the final version of the proposal;
+t5. ook part in the onlining zoom meeting to go through the original database table design to generate first version of it;
+
+Next week plan:
+1. Create the database system based on the analysis; 
+2. Start the coding part for print1;
+
+Week 4
+1. Collaborate with teammate for database system creation;
+2. Initiate and compelete the Restful API design;
+3. took part in online discussion about system detail design;
+4. start to write backend API program project query and project list query part;
+
+Next week plan:
+1. Collaborate to complete the backend part for print1;
+2. Get prepared for the first demo on wednesday;
+
+week 5
+1. check and get familiar with the whole system and applications;
+2. prepare for the first demo on wednesday;
+3. participate the online meeting for the projects progress and prepare for first demo;
+4. complete backend coding SF-29 and SF-30 recommendation functions of sprint2;
+5. add search by projectid + skill type function;
+
+Next week plan:
+1. start print2 part as planed;
+2. coding for satistic function for dreamer SF-64 and collaborator SF-66 ;
+3. hold retrospect meeting with team;
+
+week 6
+1. complete satistic function for dreamer SF-64 and collaborator SF-66 and finishing a project function;
+2. complete dreamer approve an application SF-55；
+3. complete collaborator accept/decline an invitation SF-70;
+4. add get_by_id function for Invitation;
+5. took part in the retrospect meeting with teammates， do summerization and draft a retrospective report;
+
+Next week plan:
+1. Get done for sprint2;
+2. generate a formal version of retrospect report;
+3. start coding part for sprint3;
+
+week 7
+1. complete sprint3 SF-32 update a project general info function;
+2. complete sprint3 SF-33 follow/unfollow a project function;
+3. complete sprint3 SF-34 finish a project which completed with statistic functions in sprint2;
+4. complete sprint3 SF-37 view all discussion about my project;
+5. complete sprint3 SF-38 view all discussion about my followed projects;
+6. add new required function: collaborator collaborated projects query, collaborator applied applications query, dreamer delcine an applicant function; 
+
+Next week plan:
+1. complete coding for sprint3;
+2. start coding for sprint4;
+
+week 8
+1. collarate to update database table and code updating to adapt multiple skills for one role issue;
+2. complete backend code for SF-39 admin hide unsuitable project and SF-42 unhide a project after modified;
+3. complete code updating for SF-41 patch a project;
+4. support frontend for testing and issue fixing;
+5. with teammates got ready for demo2 on wednesday;
+6. finish backend coding for sprint4 before the end of this week;
+7. online retrospect meeting2 and prepare for the report;
+
+Next week plan:
+1. support frontend for testing and issue fixing is any;
+2. start to prepare final report for the whole project;
+
+week 9
+1. complete email sending function for hide/unhide function;
+2. do funnctional and integration test, highlight the questions during testing and issue fixing;
+3. drafting the final report;
+4. work with team to clear the invalidate data in database;
+5. Prepared for code submission for the whole project;
+
+Next week plan:
+1. review with team for formal version final report;
+2. clean database tables and upload valid data in system;
+4. prepare for final demo;
+
+week 10
+1. Prepare the draft version of final report and had meeting with team to do further discussion;
+2. Review the report with team for prepare for the final report;
+3. Online testing and issue fixing；
+4. Prepare for the final demo;
+5. database cleaning and reloading data;
+
+
+
+
+
+
+
+  

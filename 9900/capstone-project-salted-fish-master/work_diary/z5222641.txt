@@ -1,0 +1,60 @@
+Week 1
+
+Group formed and joined in the Jira project management system.Choose the topic of project.
+We discussed the detail about project in the team meeting and I learn some knowledge about back-end.
+
+Next week :We will start to write our Proposal from user stories
+
+Week 2
+
+Join Github project repo and start to write our Proposal.
+Disscuss user stories and flow chart with team.
+Complete first version of proposal.
+Join in group meeting and suggest some content should be modified.
+
+Next week : Confirm final content of proposal and submit it.
+
+Week3
+Complete the final version of the proposal with team and submit it.
+Join in group meeting to complete first version of database table design.
+Next week : Create the database system 
+
+Week4
+I wrote the first version of smtp.py and first version of function of check_email.
+Create database system with team.
+Next week:Modify code of backend and prepare  for the demo
+
+week5
+Prepare for the first demo with team
+Wrote the first version of application.py
+Apply a role api finished
+Next week: Start sprint2 and join retrospect meeting with team
+
+week6
+
+Dreamer view single application api finished
+Dreamer view all applications api finished 
+Join the retrospect meeting with team
+Next week: Finished sprint 2 and start sprint3
+
+week7
+Post discussion api finished
+View all discussions api finished 
+View single discussion api finished 
+Next week: Finished sprint 3 and start sprint4
+
+week8
+Patch collaborator api finished
+Adjust format of message from backend
+Join the retrospect meeting with team and finish repost
+Next week:Finish code and test function,start write finial report
+
+week9
+Functional test
+Fix some code of backend
+Prepare final code and report
+Next week:prepare final demo and upload valid data into database
+
+week10
+Review and finish final report with team;
+Finish final demo with team

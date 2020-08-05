@@ -1,0 +1,6 @@
+Week 1
+Group formed and we selected "Dream Match Maker" as our project. We talked about the details about the project description. 
+Jobs were allocated. I will be in charge for front end developing with Keyu Yang. I learnt some react development this week.
+
+Week 2
+Start working on project proposal. I have done drawing the flow diagram with help of team members.

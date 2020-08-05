@@ -1,0 +1,90 @@
+Week 1
+
+Group formed. I created Jira organisation board and held the first group meeting (besides in lab) through Zoom. We discussed all functionality of the project and basically decided role of each member in the team.
+I also created the database access for the project.
+
+Next Week Plan: 2-1. some user stories; 2-2. start proposal drafting;
+
+Week 2
+
+I wrote some user stories of our project and divide them into 4 sprints. [2-1]
+Created Github project repo. This diary will probably be the first file in the repo.
+Created server user for cloud testing and deployment.
+All user stories updated to Jira, with subtasks for sprint 1.
+Proposal editing: User stories, Background, Objectives, System Architecture, Related Technology. [2-2]
+
+Next Week Plan: 3-1. confirm final user stories; 3-2. Proposal final version and formatting;
+
+Week 3
+
+Finalised proposal. I wrote the related technology analysis, re-formatted the whorle proposal. [3-2]
+Some user stories has been updated and sync with Jira. [3-1]
+Start to draft backend database system, as well as basic util functions.
+Start to configure smtp system.
+
+Next Week Plan: 4-1. first version database; 4-2. User login util; 4-3. Flask-Restplus structure
+
+Week 4
+
+Finished first version of database with team members. [4-1]
+Finished User login util. [4-2]
+Finished first version of user login/register API, project post API, role post API. [4-3]
+Finished project get by id API, project List API with category filter and basic search. [4-3]
+Use YAML config files for backend configuration.
+Keep udpating Github project board and Jira.
+
+Next Week Plan: 5-1. Make a first version of Demo backend; 5-2. Move more stuff into YAML config files;
+
+Week 5
+
+Finished sprint 1. [5-1]
+Created all subtasks and issues for sprint 2.
+Invitation structure, API.
+
+Next Week Plan: 6-1. Invitation acception API; 6-2. Update/Delete Role API; 6-3. Configurable database
+
+Week 6
+
+Role Patch API finished. [6-2]
+Configurable database finished. [6-3]
+Email notification for invitation system, application system.
+Fix invitations API, collaborator API.
+Move from single thread database connection (unsafe) to multi-thread connection pool.
+*Prepared new demo server on GCP, database moved.
+Conducted retro A online meeting on Zoom, wrote part of retro A report.
+
+Next Week Plan: 7-1. Start work on admin functions; 7-2. Try API view times statistics; 7-3. Prepare all tasks in Sprint 3/4; 7-4. Prepare demo server; 7-5. Start to draft final report.
+
+Week 7
+
+All subtasks in sprint 3 ready on github/jira. [7-3]
+Demo server ready, open to public connect. [7-4]
+Move to new db format for multi-skill selection in roles.
+draft final report doc ready. [7-5]
+
+Next Week Plan: 8-1. Create Sprint 4 subtasks; 8-2. Add python doc to backend.
+
+Week 8
+
+All subtasks in sprint 4 ready on github/jira. [8-1]
+Finished adding python doc. [8-2]
+Implemented Admin management API.
+Fix SMTP timeout error - will reconnect in retry.
+Hold Retro B meeting on zoom.
+
+Next Week Plan: 9-1. Review backend code and re-format; 9-2. Test all functions prepare for final demo; 9-3. First complete version of project report.
+
+Week 9
+
+Fix a lot of backend code and removed unused import [9-1]
+Engaged in frontend code debug and fixing.
+Testing in progress [9-2]
+Final report drafting [9-3]
+
+Next Week Paln: 10-1. Dump data into database; 10-2. Prepare final demo
+
+Week 10
+
+Add joined_project API.
+Final demo meeting, prepare [10-2].
+Report final formatting.

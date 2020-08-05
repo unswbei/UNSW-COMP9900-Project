@@ -1,0 +1,58 @@
+Week 1
+
+We had our first team meeting and discussed about the main features which we need to work on.
+And we discussed about the roles. I am responsible for the front end development with Nan Zhao.
+
+Next week we are going to work on the proposal based on the discussion content.
+
+Week 2
+
+I have created the software architecture part using draw.io, and created the system modules and flow chart on paper,
+which is implemented by Nan Zhao.
+
+week 3
+
+redraw the software architecture part and add the explaination of front end techiques
+Next week plan: start code the static pages, login, sign up.
+
+week 4
+
+I have coded the landing page, register page, login lage, and created project page and
+realated frontend logics by using React and Redux for dreamers and collaborators.
+Design the ui of projectLists page
+
+week 5
+
+I have implemented the search function in projectList pages which allows the user to search the project they want,
+also implemented the create role page and projectlist pages.
+Implement the project details page and dreamer dashboard, and create roles page.
+Use the api from the backend to render data
+
+
+week 6
+
+I have implemented the dashboard layout and the diferent kind of events such as onclick and hover logices,
+whats more, I have implemented the recommendation pages and the profile pages using the data from backend.
+I have created the project details pages by using link method. 
+Add invitation function.
+
+
+
+week 7
+implemented the dashboard,recommendation pages,personal info pages,and invited/apply modals for collaborators and dreamers.
+implemented the page through using api provided by the backend.
+design the layout and css part.
+implemented the link between each pages.
+add protected route for dashboard.
+
+
+week 8
+implemented the comment area and add reply functions to let user communication.
+add follow, unfllow, finish function for both collaborators and dreamers.
+attend all the meeting in times.
+finish all features in frontend.
+
+
+week 9
+fixed bugs of our software and improve user feeling when using our software
+

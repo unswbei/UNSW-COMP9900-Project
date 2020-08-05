@@ -1,0 +1,42 @@
+Week 1
+Group formed and we selected "Dream Match Maker" as our project. We talked about the details about the project description. 
+Jobs were allocated. I will be in charge for front end developing with Keyu Yang. I learnt some react development this week.
+
+Week 2
+Start working on project proposal. I am working on drawing the flow diagram using draw.io with the paper prototype provided by Keyu.
+
+Week 3
+I helped to finalize the project proposal by explanning the flow diagram. Start building the front-end with materializecss CSS with Keyu. 
+
+Week 4
+I am building the front-end part of the project with Keyu. I build some static parts include addRoleProject.js, createProject.js. 
+
+Week 5
+Build the project details with Keyu. Comments function is added into project detail page. I also build the admin's page which is for 
+administractor to view, hide, and unhide projects. Start to build dashboard for collaborators.
+
+Week 6
+Continue to build collaborator's dashboard. Recommended projects can be viewed correctly, which meet the user story in sprint 2. 
+However, receiving invitation function is stacked due to backend bug. Static page is created though.
+
+Week 7
+Continue building the front-end with Keyu. The discussion function is fully functional. Upload and download resume function is working well.
+We also add some protection routes. The sprint 3 is funished.
+
+Week 8
+Functionality implementation: Hide/reveal button in administrator's page; Collaborator can update his/her information.
+User expereince enhancement: finished projects should not be modified; Projects are classified into 3 categorys in administrator's page:
+active projects, hidden projects, and modifed projects after hidden.
+Fixed some bugs: Token lost when collaborator search for projects that match his/her skills and education levels.
+
+Next week I will continue to improve user experience and fix bugs.
+
+Week 9
+Fixed some bugs: No projects information shown after the collaborator searching the matched projects and then searching for the projects again;
+Search bar deleted on dashboards;
+User experience enhancement: Follow/unfollow button update: If a user already follow a project, the project details page will show "unfollow" button.
+Enhance some user experience features.
+
+Week 10
+Feature added: Admin can view project details by "more info" button.
+
