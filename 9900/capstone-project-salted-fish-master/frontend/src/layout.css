@@ -1,0 +1,288 @@
+.navbar-css {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* homepage */
+div section h1 {
+  margin-top: 50px;
+}
+
+div section div {
+  padding: 10px;
+  margin: 0px 0px 20px;
+}
+
+.parallax-container {
+  height: 500px;
+}
+
+.parallax {
+  position: static;
+}
+
+.avatar:link {
+  color: #000000;
+} /* 未访问链接*/
+.avatar:visited {
+  color: white;
+} /* 已访问链接 */
+.avatar:hover {
+  color: pink;
+} /* 鼠标移动到链接上 */
+.avatar:active {
+  color: gray;
+} /* 鼠标点击时 */
+
+input[type="text"]:not(.browser-default):focus:not([readonly]),
+input[type="email"]:not(.browser-default):focus:not([readonly]),
+input[type="password"]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-color: #ec407a;
+  box-shadow: none;
+}
+
+.btn-small {
+  height: 24px;
+  line-height: 24px;
+  padding: 0 0.5rem;
+}
+
+/* increase */
+.panel-up {
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+}
+
+.panel-up:hover {
+  transform: translateY(-7px);
+  box-shadow: 0 6px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12),
+    0 2px 4px -1px rgba(0, 0, 0, 0.2);
+}
+
+.collapsible-header {
+  background-color: #546e7a;
+  color: #fff;
+}
+
+.icon {
+  font-size: 5px;
+}
+
+.flexLayout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.sidenav {
+  padding-top: 18px;
+  min-height: 1000px;
+  overflow-y: auto;
+}
+.logo {
+  position: absolute;
+  bottom: 70px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.posts {
+  padding: 0 0 5px 0 !important;
+}
+.event-card {
+  margin: 20px !important;
+}
+.row {
+  padding-top: 30px;
+}
+.search-field {
+  width: 50% !important;
+}
+.event-title {
+  margin: 1rem 0 0.912rem 1rem !important;
+}
+.input-field input[type="search"] + .search-icon {
+  left: unset !important;
+  right: 1rem !important;
+  cursor: pointer;
+}
+nav .input-field .search-icon,
+.input-field > .search-icon {
+  right: 0 !important;
+}
+.input-field input[type="search"] ~ .close-icon {
+  right: unset !important;
+  left: 1rem !important;
+}
+
+.event-today > .card-title {
+  padding: 10px;
+}
+
+@media only screen and (min-width: 993px) {
+  /* header {
+    padding-left: 300px;
+  } */
+  .sidenav {
+    top: 65px !important;
+  }
+  .logo {
+    bottom: 130px;
+  }
+
+  main {
+    padding-left: 300px;
+  }
+  main .container {
+    width: 100%;
+    max-width: 1500px;
+  }
+  .search-field {
+    width: 70% !important;
+  }
+  /* .calendar-btn, .event-today-btn {
+    display: none !important;
+  } */
+  .modal-trigger {
+    display: none !important;
+  }
+
+  .event-today {
+    display: block;
+    position: fixed;
+    top: 480px;
+    max-width: 475px;
+    margin-right: 18px;
+  }
+}
+
+/* profile */
+.container1 {
+  user-select: none;
+  margin: 100px auto;
+  background: #231e39;
+  color: #b3b8cd;
+  border-radius: 5px;
+  width: 350px;
+  text-align: center;
+  box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.75);
+}
+.cover-photo {
+  background: url(https://images.unsplash.com/photo-1540228232483-1b64a7024923?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80);
+  height: 160px;
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+.profile {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  margin: 93px 0 0 -175px;
+  border: 1px solid #1f1a32;
+  padding: 7px;
+  background: #292343;
+}
+.profile-name {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 27px 0 0 120px;
+}
+.about {
+  margin-top: 35px;
+  line-height: 21px;
+}
+.button1 {
+  margin: 10px 0 40px 0;
+}
+.msg-btn,
+.follow-btn {
+  background: #03bfbc;
+  border: 1px solid #03bfbc;
+  padding: 10px 25px;
+  color: #231e39;
+  border-radius: 3px;
+  font-family: Montserrat, sans-serif;
+  cursor: pointer;
+}
+.follow-btn {
+  margin-left: 10px;
+  background: transparent;
+  color: #02899c;
+}
+.follow-btn:hover {
+  color: #231e39;
+  background: #03bfbc;
+  transition: 0.5s;
+}
+.container1 i {
+  padding-left: 20px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.container1 i:hover {
+  color: #03bfbc;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+@import url("https://fonts.googleapis.com/css?family=Cherry+Swash");
+@import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light");
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+@import url(https://fonts.googleapis.com/css?family=Arimo);
+
+.custom-dialog {
+  background-color: #b3b8cd;
+  width: 48% !important;
+  top: 50% !important;
+  left: 50%;
+  max-width: 500 !important;
+  min-height: 300;
+}
+
+.modal-open {
+  overflow-y: scroll;
+}
+
+
+
+.App {
+  padding-top: 1rem;
+  margin: 2rem auto;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.Spin {
+  animation: App-logo-spin infinite 2s linear;
+}
+
+.App-header {
+  text-align: center;
+  background-color: var(--secondary);
+  padding: 20px;
+  color: white;
+  border-radius: 0.3rem;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+      transform: rotate(0deg);
+  }
+  to {
+      transform: rotate(360deg);
+  }
+}
